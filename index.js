@@ -43,13 +43,13 @@ let { say } = cfonts
 
 console.log(chalk.bold.redBright(`\n✞ Iniciando 𝕭𝖑𝖆𝖈𝖐 𝕮𝖑𝖔𝖛𝖊𝖗 ☘\n`))
 
-say('Black-Clover', {
+say('madara-bot', {
 font: 'block',
 align: 'center',
 colors: ['redBright']
 })
 
-say(`Developed By • The Carlos`, {
+say(`Developed By • lorena`, {
 font: 'console',
 align: 'center',
 colors: ['blueBright']
